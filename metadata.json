@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker – ML Enhanced",
+  "description": "Smart personal expense tracker with in-browser machine learning and deep neural network category classification (Wide & Deep Residual Neural Network with AdamW), financial analytics, and CSV import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
